@@ -1,6 +1,10 @@
 # 10,000 Kubernetes Pods for 10,000 Subscribers
 
-<p align="center"><a href="https://www.youtube.com/watch?v=k5ncj3TKL1c"><img src="https://img.youtube.com/vi/k5ncj3TKL1c/0.jpg" alt="10,000 Kubernetes Pods for 10,000 Subscribers!" /></a></p>
+<<p align="center">
+  <a href="https://www.youtube.com/watch?v=rfq95ObuwRM">
+    <img src="https://img.youtube.com/vi/rfq95ObuwRM/0.jpg" alt="10 Kubernetes Pods for  10 Subscribers!" />
+  </a>
+</p>
 
 > **tl;dr**: See the blog post that accompanies this project: [10,000 Kubernetes Pods for 10,000 Subscribers](https://www.jeffgeerling.com/blog/2020/10000-kubernetes-pods-10000-subscribers).
 
